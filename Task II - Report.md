@@ -11,5 +11,5 @@
 - The three terminals are called the “base,” the “emitter,” and the “collector.”
 - The emitter “emits” charge carriers and the collector “collects” them while the base controls the number of carriers that make this journey. 
 - We denote the terminal voltages by VE, VB, and VC , and the voltage differences by VBE, VCB, and VCE.
-- When base-emitter junction is forward biased (V$_B$$_E$  >  0) and the base-collector junction is reverse biased ( V$_B$$_C$  <  0) , the device is biased in the "forward active region" or is in "active mode."
+- When base-emitter junction is forward biased (V BE  >  0) and the base-collector junction is reverse biased ( V BC  <  0) , the device is biased in the "forward active region" or is in "active mode."
 - 
